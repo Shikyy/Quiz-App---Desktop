@@ -1,0 +1,17 @@
+C:\Users\hp\source\repos\DESKTOP_II_[01]\DESKTOP_II_[01]\bin\Debug\DESKTOP_II_[01].exe.config
+C:\Users\hp\source\repos\DESKTOP_II_[01]\DESKTOP_II_[01]\bin\Debug\DESKTOP_II_[01].exe
+C:\Users\hp\source\repos\DESKTOP_II_[01]\DESKTOP_II_[01]\bin\Debug\DESKTOP_II_[01].pdb
+C:\Users\hp\source\repos\DESKTOP_II_[01]\DESKTOP_II_[01]\obj\Debug\DESKTOP_II_[01].csproj.AssemblyReference.cache
+C:\Users\hp\source\repos\DESKTOP_II_[01]\DESKTOP_II_[01]\obj\Debug\DESKTOP_II__01_.Login.resources
+C:\Users\hp\source\repos\DESKTOP_II_[01]\DESKTOP_II_[01]\obj\Debug\DESKTOP_II__01_.Properties.Resources.resources
+C:\Users\hp\source\repos\DESKTOP_II_[01]\DESKTOP_II_[01]\obj\Debug\DESKTOP_II_[01].csproj.GenerateResource.cache
+C:\Users\hp\source\repos\DESKTOP_II_[01]\DESKTOP_II_[01]\obj\Debug\DESKTOP_II_[01].csproj.CoreCompileInputs.cache
+C:\Users\hp\source\repos\DESKTOP_II_[01]\DESKTOP_II_[01]\obj\Debug\DESKTOP_II_[01].exe
+C:\Users\hp\source\repos\DESKTOP_II_[01]\DESKTOP_II_[01]\obj\Debug\DESKTOP_II_[01].pdb
+C:\Users\hp\source\repos\DESKTOP_II_[01]\DESKTOP_II_[01]\obj\Debug\DESKTOP_II__01_.Register.resources
+C:\Users\hp\source\repos\DESKTOP_II_[01]\DESKTOP_II_[01]\obj\Debug\DESKTOP_II__01_.UserMain.resources
+C:\Users\hp\source\repos\DESKTOP_II_[01]\DESKTOP_II_[01]\obj\Debug\DESKTOP_II__01_.AddQuiz.resources
+C:\Users\hp\source\repos\DESKTOP_II_[01]\DESKTOP_II_[01]\obj\Debug\DESKTOP_II__01_.Guest.resources
+C:\Users\hp\source\repos\DESKTOP_II_[01]\DESKTOP_II_[01]\obj\Debug\DESKTOP_II__01_.Home.resources
+C:\Users\hp\source\repos\DESKTOP_II_[01]\DESKTOP_II_[01]\obj\Debug\DESKTOP_II__01_.QuizForm.resources
+C:\Users\hp\source\repos\DESKTOP_II_[01]\DESKTOP_II_[01]\obj\Debug\DESKTOP_II__01_.QuizReport.resources
